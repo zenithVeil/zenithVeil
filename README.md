@@ -1,108 +1,71 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI+Builder;Developer+in+Progress;B.Tech+Student" alt="Typing SVG" />
+# ZΞNITH VΞIL
 
-  <h1>Zenith Veil</h1>
+**Cybersecurity • AI/ML • Full-Stack Engineering**  
+*B.Tech 3rd Year · Student · Builder · Ethical Hacker in Progress*
 
-  <p>
-    <b>B.Tech 3rd Year Student</b> <br>
-    <code>Cybersecurity • AI • Web Development • Problem Solving</code>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=zenithVeil&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" alt="Profile Views" />
+[![Profile Views](https://komarev.com/ghpvc/?username=zenithVeil&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge)](https://github.com/zenithVeil)
 
 </div>
 
----
+```text
+┌─[ identity ]──────────────────────────────────────┐
+│  SPECIALIZATION  : Cybersecurity + AI Security    │
+│  ROLE            : Developer / Security Researcher│
+│  MODE            : Learn • Build • Break • Defend │
+│  OBJECTIVE       : Turn ideas into secure systems │
+└───────────────────────────────────────────────────┘
+```
 
-### About Me
-I’m a cyber-focused developer with a strong curiosity for:
-- Cybersecurity and ethical hacking
-- AI/ML and AI safety
-- Full-stack development
-- Building practical, real-world projects
-- Learning by creating and experimenting
+## // Mission
 
-I enjoy working on tools that combine security, automation, and intelligence — especially projects that solve meaningful problems.
+I build practical projects at the intersection of **security, artificial intelligence, and software engineering**. My focus is on ethical hacking, prompt-injection defense, vulnerability analysis, automation, and secure full-stack development.
 
----
+## // Arsenal
 
-### 🔐 Core Interests
-- Ethical Hacking & Cybersecurity
-- AI Security & Prompt Injection Defense
-- Vulnerability Analysis
-- Python Automation
-- Web Security
-- Full-Stack Development
-- System Design & Secure Architecture
+**Languages**  
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00f5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00f5ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00f5ff)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00f5ff)
 
----
+**Stack & Tools**  
+`React` · `Node.js` · `FastAPI` · `Git` · `Linux` · `VS Code`
 
-### 🧠 Tech Stack
+**Operating Areas**  
+`Ethical Hacking` · `Web Security` · `AI Security` · `Prompt Injection Defense` · `Python Automation` · `System Design`
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## // Active Operations
 
-#### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **Security:** vulnerability analysis and web security research
+- **AI:** prompt-injection defense and AI safety experiments
+- **Development:** secure, useful full-stack applications
+- **Automation:** Python tools and productivity systems
 
----
+## // Selected Projects
 
-### 🚀 Currently Building
-I’m focused on creating projects at the intersection of:
-- Cybersecurity
-- AI
-- Productive developer tools
-- Secure application engineering
-
-My goal is to keep learning through hands-on projects and turn ideas into working systems.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenithVeil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenithVeil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧩 Featured Projects
-- PromptGuard
-- Opportunity Tracker
-- AutoBoolm
-- Find Evil Agent
-- Security-focused AI experiments
-- Developer productivity tools
-
----
-
-### 🌐 Connect
-- GitHub: [@zenithVeil](https://github.com/zenithVeil)
-- LinkedIn: Add your profile link
-- Portfolio: Add your portfolio link
-- Email: Add your email
-
----
+- **PromptGuard** — AI prompt-injection defense
+- **Opportunity Tracker** — opportunity discovery and tracking
+- **AutoBoom** — workflow automation
+- **Find Evil Agent** — security-focused AI experimentation
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:7a5cff&height=120&section=header&text=Stay%20Curious%20Stay%20Secure&fontSize=24&fontColor=ffffff" />
+## // System Status
+
+<img src="https://github-readme-stats.vercel.app/api?username=zenithVeil&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=00f5ff" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zenithVeil&theme=tokyonight&hide_border=true&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" alt="GitHub Streak" />
 
 </div>
 
-> “Learning by building. Exploring the intersection of security, AI, and software.”
+## // Uplink
+
+[GitHub](https://github.com/zenithVeil) · **LinkedIn:** profile link needed · **Portfolio:** profile link needed · **Email:** address needed
+
+<div align="center">
+
+> **Stay curious. Stay secure. Build what matters.**
+
+</div>
