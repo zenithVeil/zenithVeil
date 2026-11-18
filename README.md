@@ -20,7 +20,7 @@
 
 ## // Mission
 
-I build practical projects at the intersection of **security, artificial intelligence, and software engineering**. My focus is on ethical hacking, prompt-injection defense, vulnerability analysis, automation, and secure full-stack development.
+I build practical projects at the intersection of **security, artificial intelligence, and software engineering**. My focus is ethical hacking, prompt-injection defense, vulnerability analysis, automation, and secure full-stack development.
 
 ## // Arsenal
 
@@ -60,9 +60,9 @@ I build practical projects at the intersection of **security, artificial intelli
 
 </div>
 
-## // Uplink
+## // Connect
 
-[GitHub](https://github.com/zenithVeil) · **LinkedIn:** profile link needed · **Portfolio:** profile link needed · **Email:** address needed
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/zenithVeil)
 
 <div align="center">
 
